@@ -18,14 +18,14 @@ h2, h3, h4, h5 {
     margin-bottom: 30px;
 }
 
-@media (max-width: 768px){
+/* @media (max-width: 768px){
     .col-md-6{
         padding-left: 30px;
     }
-}
+} */
 
-/* @media (min-width: 1679px){
+@media (min-width: 1679px){
     .bela {
         margin-top: 10%;
     }
-} */
+}
